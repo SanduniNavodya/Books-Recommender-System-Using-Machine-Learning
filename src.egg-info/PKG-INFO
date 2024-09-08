@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Movie Recommender System
+Home-page: https://github.com/sanduni/Books-Recommender-System-Using-Machine-Learning
+Author: sanduni
+Author-email: it22589590@my.sliit.lk
+License: MIT
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: numpy
+
+Books-Recommender-System-Using-Machine-Learning
